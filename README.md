@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yatiksihag01&label=Profile%20views&color=0e75b6&style=flat" alt="yatiksihag01" /> </p>
 
-- 🔭 I’m currently working on [QR Scanner](https://github.com/yatiksihag01/QR-Scanner---Google-ML-Kit-MVVM)
+- 🔭 I’m currently working on [NewsStream Project](https://github.com/Team-NewsStream)
 
 - 💬 Ask me about **Android Development**
 
